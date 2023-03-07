@@ -212,6 +212,9 @@
         background-color: #fec600;
         color: #111111;
     }
+    #pricing .container .item a {
+        color: #111111;
+    }
     /* =================pricing part end================= */
     
     /* =================counter up part start================= */
@@ -602,6 +605,9 @@
         background-color: #fec600;
         color: #111111;
     }
+    #pricing .container .item a {
+        color: #111111;
+    }
     /* =================pricing part end================= */
     
     /* =================counter up part start================= */
@@ -948,6 +954,9 @@
     }
     #pricing .container .item h4{
         background-color: #fec600;
+        color: #111111;
+    }
+    #pricing .container .item a {
         color: #111111;
     }
     /* =================pricing part end================= */

@@ -801,8 +801,17 @@ p{
     clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
     transition: .4s;
 }
+#pricing .container .item a{
+    color: #ffffff;
+}
 #pricing .container .item:hover h4{
     background-color: #fec600;
+    color: #111111;
+}
+#pricing .container .item a{
+    transition: .4s;
+}
+#pricing .container .item:hover a{
     color: #111111;
 }
 #pricing .container .item .prices{

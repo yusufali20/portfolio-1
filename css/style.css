@@ -802,7 +802,7 @@ p{
     transition: .4s;
 }
 #pricing .container .item a{
-    color: #ffffff;
+    color: #ffffff !important;
 }
 #pricing .container .item:hover h4{
     background-color: #fec600;
